@@ -1,1 +1,9 @@
-# Angular-django-Authentication
+
+---------------------------------------------------
+
+`npm install; bower install;`
+
+`grunt serve`
+
+
+---------------------------------------------------
